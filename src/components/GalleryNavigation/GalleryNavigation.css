@@ -1,0 +1,9 @@
+.active {
+    font-weight: bold;
+}
+
+.gallery-list {
+    display: flex;
+    justify-content: space-between;
+    
+}
